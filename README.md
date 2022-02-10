@@ -6,7 +6,7 @@
 
 #### Web Server
 > 서버 구현
-> <br> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+> <br> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
 
 #### Crawling
 > 멜론 차트 크롤링
